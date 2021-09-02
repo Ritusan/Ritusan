@@ -26,4 +26,4 @@ Here are some ideas to get you started:
 
 ---
 
-[:point_right: Go see my blog!](http://ritusan.top/)
+[:point_right: Go see my blog!✨](http://ritusan.top/)
