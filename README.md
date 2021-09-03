@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 <p style="display:flex;justify-content: space-between">
   <img height="180rem" width="47%" src="https://github-readme-stats.vercel.app/api?username=Ritusan&show_icons=true&count_private=true" />
-  <img height="180rem" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&username=Ritusan&hide=html" />
+  <img height="180rem" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&username=Ritusan" />
   
   _NOTE: Top languages are not an indicator skill, it's just a metric of how much **public** code I have written over the years._
 </p>
