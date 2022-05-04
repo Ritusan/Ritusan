@@ -25,5 +25,3 @@ Here are some ideas to get you started:
 </p>
 
 ---
-
-[:point_right: Go see my blog!✨](http://ritusan.top/)
